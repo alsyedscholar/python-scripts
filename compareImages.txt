@@ -1,0 +1,12 @@
+72.png, 73.png
+72.png, 57.png
+72.png, 54.png
+73.png, 72.png
+73.png, 57.png
+73.png, 54.png
+57.png, 72.png
+57.png, 73.png
+57.png, 54.png
+54.png, 72.png
+54.png, 73.png
+54.png, 57.png
